@@ -27,7 +27,7 @@ Ce dépôt rassemble différents projets que j’ai réalisés au cours de mes �
 ---
 
 ## 🎯 Objectifs de ce portfolio
-- Démontrer mes compétences en **robotique, systèmes embarqués et conception électronique**.  
+- Démontrer mes compétences en **robotique, systèmes embarqués, électronique et conception mécanique.**.  
 - Mettre en avant ma capacité à **conduire un projet technique de bout en bout** (spécifications → conception → implémentation → tests).  
 - Fournir une vitrine claire et accessible pour mes **candidatures de stages et futurs projets professionnels**.  
 
