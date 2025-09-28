@@ -47,7 +47,7 @@ This repository gathers several academic and personal projects that demonstrate 
 
 ## 🚀 Included Projects
 
-### 🐍 1. Python – Interfaces & Machine Learning
+### 🐍 1. Python
 
 ---
 
