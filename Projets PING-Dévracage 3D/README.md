@@ -48,7 +48,9 @@ The detailed gripping forces, spring stiffness, and final mechanical behavior we
 
 ### 3. SolidWorks Modeling
 
-*SolidWorks CAD view of the gripper will be embedded here once the image is uploaded to this repository.*
+![SolidWorks view of the adaptive two-finger gripper](./assets/gripper-solidworks-view.png)
+
+*SolidWorks view of the proposed adaptive two-finger gripper.*
 
 I modeled the fingers, joints, linkages, and supporting structure in SolidWorks. The CAD work also included the layout of the proposed spring mechanism and a technical assembly drawing containing multiple views, sections, and dimensions.
 
