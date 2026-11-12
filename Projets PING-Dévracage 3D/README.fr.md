@@ -48,7 +48,9 @@ Les efforts de préhension, la raideur du ressort et le comportement final du m�
 
 ### 3. Modélisation SolidWorks
 
-*La vue CAO SolidWorks sera affichée ici après l'ajout de l'image au dépôt.*
+![Vue SolidWorks de la pince adaptative à deux doigts](./assets/gripper-solidworks-view.png)
+
+*Vue SolidWorks du préhenseur adaptatif à deux doigts proposé.*
 
 J'ai modélisé sous SolidWorks les doigts, articulations, biellettes et supports du mécanisme. Le travail CAO comprenait également l'agencement du mécanisme à ressort proposé ainsi qu'une mise en plan d'assemblage avec plusieurs vues, coupes et cotations.
 
