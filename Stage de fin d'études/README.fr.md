@@ -18,7 +18,7 @@ Le travail s'est organisé en deux phases principales : le développement d'une 
 
 La figure suivante présente les principales étapes de cette démarche et situe les contributions réalisées au cours du stage.
 
-[Emplacement du diagramme — version française]
+![Aperçu conceptuel du transfert progressif d’une politique de navigation sociale pré-entraînée vers une plateforme robotique.](./assets/Scope_travail_effectue_stage_fr.png)
 
 *Figure — Vue d'ensemble du périmètre du stage : de l'environnement de simulation d'origine vers l'intégration ROS 2/Gazebo, puis les premiers essais sur robot AgileX LIMO. Les essais sur la plateforme réelle sont restés exploratoires et ne constituent pas une validation complète du transfert Sim-to-Real.*
 
