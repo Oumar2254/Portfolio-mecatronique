@@ -16,6 +16,11 @@ The research team had already developed and trained the navigation policy. My wo
 
 The internship followed two main development phases: the initial implementation of a ROS 2 inference pipeline, followed by its consolidation, extension, experimental evaluation, and preliminary hardware deployment.
 
+The following diagram illustrates the main stages of this process and highlights the scope of my contributions.
+
+![Conceptual overview of the progressive transfer of a pretrained social navigation policy to a robotic platform.](./assets/Scope_travail_effectue_stage_eng.png)
+
+*Figure — Overview of the internship scope: from the original simulation environment to ROS 2/Gazebo integration and preliminary experiments on an AgileX LIMO robot. Physical robot experiments remained exploratory and did not constitute a complete Sim-to-Real validation.*
 ## Project Objectives
 
 The main objective was to investigate how an existing DRL navigation policy could be transferred from its original simulation environment to a robotics software architecture based on ROS 2.
@@ -71,9 +76,6 @@ At a conceptual level, the ROS 2 inference pipeline can be divided into four mai
 4. **Robot command generation:** forwarding the resulting action to the simulated or physical robotic platform.
 
 This functional decomposition separates the software integration work from the internal architecture of the research policy.
-
-![Conceptual overview of the progressive transfer of a pretrained social navigation policy to a robotic platform.](./assets/Scope_travail_effectue_stage_eng.png)
-
 
 ## Simulation-Based Evaluation
 
