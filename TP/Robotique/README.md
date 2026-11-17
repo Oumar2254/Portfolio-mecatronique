@@ -1,3 +1,3 @@
-Ce dossier présente plusieurs travaux pratiques de robotique réalisés sous MATLAB/Simulink.
-Nous y avons exploré différentes méthodes de commande en espace articulaire, notamment la commande en boucle fermée (PD), la commande anticipative et la commande dynamique, en nous appuyant sur un modèle de référence Lagrangien.
-Chaque TP est accompagné d’un rapport synthétisant la démarche, les simulations et les principaux résultats obtenus.
+This folder presents several practical robotics assignments carried out using MATLAB/Simulink.
+We explored various control methods in joint space—specifically closed-loop (PD) control, feedforward control, and dynamic control—based on a Lagrangian reference model.
+Each assignment is accompanied by a report summarizing the approach, the simulations, and the key results obtained.
